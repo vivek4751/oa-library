@@ -1,0 +1,5 @@
+.env*
+*.har
+*.dpapi
+.vercel/
+node_modules/
